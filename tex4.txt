@@ -1,0 +1,1406 @@
+Neuron 1 has 2 per cent of records 
+
+Neuron 2 has 1.200000e+00 per cent of records 
+
+Neuron 3 has 8.000000e-01 per cent of records 
+
+Neuron 4 has 8.000000e-01 per cent of records 
+
+Neuron 5 has 1.400000e+00 per cent of records 
+
+Neuron 6 has 1.400000e+00 per cent of records 
+
+Neuron 7 has 1.600000e+00 per cent of records 
+
+Neuron 8 has 4.000000e-01 per cent of records 
+
+Neuron 9 has 8.000000e-01 per cent of records 
+
+Neuron 10 has 1 per cent of records 
+
+Neuron 11 has 8.000000e-01 per cent of records 
+
+Neuron 12 has 1.200000e+00 per cent of records 
+
+Neuron 13 has 6.000000e-01 per cent of records 
+
+Neuron 14 has 2.200000e+00 per cent of records 
+
+Neuron 15 has 7.200000e+00 per cent of records 
+
+Neuron 16 has 1.400000e+00 per cent of records 
+
+Neuron 17 has 6.000000e-01 per cent of records 
+
+Neuron 18 has 4.000000e-01 per cent of records 
+
+Neuron 19 has 0 per cent of records 
+
+Neuron 20 has 2.000000e-01 per cent of records 
+
+Neuron 21 has 1.800000e+00 per cent of records 
+
+Neuron 22 has 2.400000e+00 per cent of records 
+
+Neuron 23 has 2.600000e+00 per cent of records 
+
+Neuron 24 has 1.200000e+00 per cent of records 
+
+Neuron 25 has 1 per cent of records 
+
+Neuron 26 has 8.000000e-01 per cent of records 
+
+Neuron 27 has 1.400000e+00 per cent of records 
+
+Neuron 28 has 0 per cent of records 
+
+Neuron 29 has 0 per cent of records 
+
+Neuron 30 has 0 per cent of records 
+
+Neuron 31 has 4.000000e-01 per cent of records 
+
+Neuron 32 has 6.000000e-01 per cent of records 
+
+Neuron 33 has 8.000000e-01 per cent of records 
+
+Neuron 34 has 1.200000e+00 per cent of records 
+
+Neuron 35 has 1 per cent of records 
+
+Neuron 36 has 2.000000e-01 per cent of records 
+
+Neuron 37 has 0 per cent of records 
+
+Neuron 38 has 0 per cent of records 
+
+Neuron 39 has 0 per cent of records 
+
+Neuron 40 has 0 per cent of records 
+
+Neuron 41 has 2.000000e-01 per cent of records 
+
+Neuron 42 has 1 per cent of records 
+
+Neuron 43 has 1 per cent of records 
+
+Neuron 44 has 2.000000e-01 per cent of records 
+
+Neuron 45 has 2.000000e-01 per cent of records 
+
+Neuron 46 has 0 per cent of records 
+
+Neuron 47 has 0 per cent of records 
+
+Neuron 48 has 0 per cent of records 
+
+Neuron 49 has 8.000000e-01 per cent of records 
+
+Neuron 50 has 4.000000e-01 per cent of records 
+
+Neuron 51 has 0 per cent of records 
+
+Neuron 52 has 0 per cent of records 
+
+Neuron 53 has 0 per cent of records 
+
+Neuron 54 has 0 per cent of records 
+
+Neuron 55 has 0 per cent of records 
+
+Neuron 56 has 8.000000e-01 per cent of records 
+
+Neuron 57 has 2.200000e+00 per cent of records 
+
+Neuron 58 has 2.000000e-01 per cent of records 
+
+Neuron 59 has 2.000000e-01 per cent of records 
+
+Neuron 60 has 4 per cent of records 
+
+Neuron 61 has 2.000000e-01 per cent of records 
+
+Neuron 62 has 2.000000e-01 per cent of records 
+
+Neuron 63 has 0 per cent of records 
+
+Neuron 64 has 0 per cent of records 
+
+Neuron 65 has 4.000000e-01 per cent of records 
+
+Neuron 66 has 1.200000e+00 per cent of records 
+
+Neuron 67 has 1 per cent of records 
+
+Neuron 68 has 6.000000e-01 per cent of records 
+
+Neuron 69 has 1.400000e+00 per cent of records 
+
+Neuron 70 has 0 per cent of records 
+
+Neuron 71 has 4.000000e-01 per cent of records 
+
+Neuron 72 has 1.600000e+00 per cent of records 
+
+Neuron 73 has 0 per cent of records 
+
+Neuron 74 has 0 per cent of records 
+
+Neuron 75 has 1.200000e+00 per cent of records 
+
+Neuron 76 has 1.200000e+00 per cent of records 
+
+Neuron 77 has 4 per cent of records 
+
+Neuron 78 has 3.200000e+00 per cent of records 
+
+Neuron 79 has 2.000000e-01 per cent of records 
+
+Neuron 80 has 8.000000e-01 per cent of records 
+
+Neuron 81 has 3.600000e+00 per cent of records 
+
+Neuron 82 has 2.800000e+00 per cent of records 
+
+Neuron 83 has 4.000000e-01 per cent of records 
+
+Neuron 84 has 0 per cent of records 
+
+Neuron 85 has 0 per cent of records 
+
+Neuron 86 has 8.000000e-01 per cent of records 
+
+Neuron 87 has 2.200000e+00 per cent of records 
+
+Neuron 88 has 1 per cent of records 
+
+Neuron 89 has 8.000000e-01 per cent of records 
+
+Neuron 90 has 2.000000e-01 per cent of records 
+
+Neuron 91 has 4.800000e+00 per cent of records 
+
+Neuron 92 has 1.800000e+00 per cent of records 
+
+Neuron 93 has 0 per cent of records 
+
+Neuron 94 has 0 per cent of records 
+
+Neuron 95 has 1.600000e+00 per cent of records 
+
+Neuron 96 has 2 per cent of records 
+
+Neuron 97 has 2.800000e+00 per cent of records 
+
+Neuron 98 has 6.000000e-01 per cent of records 
+
+Neuron 99 has 2.600000e+00 per cent of records 
+
+Neuron 100 has 1.800000e+00 per cent of records 
+
+For neuron 1 , most frequent terms are:
+
+term1 = 
+
+    'motion'
+
+
+term2 = 
+
+    'flow'
+
+
+For neuron 2 , most frequent terms are:
+
+term1 = 
+
+    'motion'
+
+
+term2 = 
+
+    'textur'
+
+
+For neuron 3 , most frequent terms are:
+
+term1 = 
+
+    'bind'
+
+
+term2 = 
+
+    'textur'
+
+
+For neuron 4 , most frequent terms are:
+
+term1 = 
+
+    'std'
+
+
+term2 = 
+
+    'som'
+
+
+For neuron 5 , most frequent terms are:
+
+term1 = 
+
+    'plant'
+
+
+term2 = 
+
+    'chess'
+
+
+For neuron 6 , most frequent terms are:
+
+term1 = 
+
+    'ridg'
+
+
+term2 = 
+
+    'queri'
+
+
+For neuron 7 , most frequent terms are:
+
+term1 = 
+
+    'interpol'
+
+
+term2 = 
+
+    'queri'
+
+
+For neuron 8 , most frequent terms are:
+
+term1 = 
+
+    'student'
+
+
+term2 = 
+
+    'queri'
+
+
+For neuron 9 , most frequent terms are:
+
+term1 = 
+
+    'student'
+
+
+term2 = 
+
+    'tree'
+
+
+For neuron 10 , most frequent terms are:
+
+term1 = 
+
+    'tree'
+
+
+term2 = 
+
+    'skill'
+
+
+For neuron 11 , most frequent terms are:
+
+term1 = 
+
+    'dispar'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 12 , most frequent terms are:
+
+term1 = 
+
+    'spike'
+
+
+term2 = 
+
+    'neuron'
+
+
+For neuron 13 , most frequent terms are:
+
+term1 = 
+
+    'bind'
+
+
+term2 = 
+
+    'tensor'
+
+
+For neuron 14 , most frequent terms are:
+
+term1 = 
+
+    'mse'
+
+
+term2 = 
+
+    'expert'
+
+
+For neuron 15 , most frequent terms are:
+
+term1 = 
+
+    'chess'
+
+
+term2 = 
+
+    'game'
+
+
+For neuron 16 , most frequent terms are:
+
+term1 = 
+
+    'interpol'
+
+
+term2 = 
+
+    'teacher'
+
+
+For neuron 17 , most frequent terms are:
+
+term1 = 
+
+    'tree'
+
+
+term2 = 
+
+    'queri'
+
+
+For neuron 18 , most frequent terms are:
+
+term1 = 
+
+    'queri'
+
+
+term2 = 
+
+    'student'
+
+
+For neuron 19 , most frequent terms are:
+
+term1 = 
+
+    'skill'
+
+
+term2 = 
+
+    'tree'
+
+
+For neuron 20 , most frequent terms are:
+
+term1 = 
+
+    'tree'
+
+
+term2 = 
+
+    'skill'
+
+
+For neuron 21 , most frequent terms are:
+
+term1 = 
+
+    'cell'
+
+
+term2 = 
+
+    'head'
+
+
+For neuron 22 , most frequent terms are:
+
+term1 = 
+
+    'spike'
+
+
+term2 = 
+
+    'neuron'
+
+
+For neuron 23 , most frequent terms are:
+
+term1 = 
+
+    'spike'
+
+
+term2 = 
+
+    'neuron'
+
+
+For neuron 24 , most frequent terms are:
+
+term1 = 
+
+    'wavelet'
+
+
+term2 = 
+
+    'wind'
+
+
+For neuron 25 , most frequent terms are:
+
+term1 = 
+
+    'rbf'
+
+
+term2 = 
+
+    'mlp'
+
+
+For neuron 26 , most frequent terms are:
+
+term1 = 
+
+    'rbf'
+
+
+term2 = 
+
+    'latent'
+
+
+For neuron 27 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'sv'
+
+
+For neuron 28 , most frequent terms are:
+
+term1 = 
+
+    'queri'
+
+
+term2 = 
+
+    'tree'
+
+
+For neuron 29 , most frequent terms are:
+
+term1 = 
+
+    'skill'
+
+
+term2 = 
+
+    'arbor'
+
+
+For neuron 30 , most frequent terms are:
+
+term1 = 
+
+    'skill'
+
+
+term2 = 
+
+    'channel'
+
+
+For neuron 31 , most frequent terms are:
+
+term1 = 
+
+    'spike'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 32 , most frequent terms are:
+
+term1 = 
+
+    'spike'
+
+
+term2 = 
+
+    'wavelet'
+
+
+For neuron 33 , most frequent terms are:
+
+term1 = 
+
+    'wavelet'
+
+
+term2 = 
+
+    'hybrid'
+
+
+For neuron 34 , most frequent terms are:
+
+term1 = 
+
+    'wavelet'
+
+
+term2 = 
+
+    'loss'
+
+
+For neuron 35 , most frequent terms are:
+
+term1 = 
+
+    'word'
+
+
+term2 = 
+
+    'rbf'
+
+
+For neuron 36 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'latent'
+
+
+For neuron 37 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'arbor'
+
+
+For neuron 38 , most frequent terms are:
+
+term1 = 
+
+    'channel'
+
+
+term2 = 
+
+    'arbor'
+
+
+For neuron 39 , most frequent terms are:
+
+term1 = 
+
+    'channel'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 40 , most frequent terms are:
+
+term1 = 
+
+    'arbor'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 41 , most frequent terms are:
+
+term1 = 
+
+    'face'
+
+
+term2 = 
+
+    'gestur'
+
+
+For neuron 42 , most frequent terms are:
+
+term1 = 
+
+    'face'
+
+
+term2 = 
+
+    'facial'
+
+
+For neuron 43 , most frequent terms are:
+
+term1 = 
+
+    'wavelet'
+
+
+term2 = 
+
+    'style'
+
+
+For neuron 44 , most frequent terms are:
+
+term1 = 
+
+    'wavelet'
+
+
+term2 = 
+
+    'ica'
+
+
+For neuron 45 , most frequent terms are:
+
+term1 = 
+
+    'loss'
+
+
+term2 = 
+
+    'word'
+
+
+For neuron 46 , most frequent terms are:
+
+term1 = 
+
+    'word'
+
+
+term2 = 
+
+    'syllabl'
+
+
+For neuron 47 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 48 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 49 , most frequent terms are:
+
+term1 = 
+
+    'channel'
+
+
+term2 = 
+
+    'arbor'
+
+
+For neuron 50 , most frequent terms are:
+
+term1 = 
+
+    'polici'
+
+
+term2 = 
+
+    'action'
+
+
+For neuron 51 , most frequent terms are:
+
+term1 = 
+
+    'cell'
+
+
+term2 = 
+
+    'face'
+
+
+For neuron 52 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'style'
+
+
+For neuron 53 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'ica'
+
+
+For neuron 54 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'ica'
+
+
+For neuron 55 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'popul'
+
+
+For neuron 56 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 57 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'synapt'
+
+
+For neuron 58 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'arbor'
+
+
+For neuron 59 , most frequent terms are:
+
+term1 = 
+
+    'polici'
+
+
+term2 = 
+
+    'action'
+
+
+For neuron 60 , most frequent terms are:
+
+term1 = 
+
+    'polici'
+
+
+term2 = 
+
+    'action'
+
+
+For neuron 61 , most frequent terms are:
+
+term1 = 
+
+    'elf'
+
+
+term2 = 
+
+    'patent'
+
+
+For neuron 62 , most frequent terms are:
+
+term1 = 
+
+    'elf'
+
+
+term2 = 
+
+    'deflect'
+
+
+For neuron 63 , most frequent terms are:
+
+term1 = 
+
+    'deflect'
+
+
+term2 = 
+
+    'rota'
+
+
+For neuron 64 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'ica'
+
+
+For neuron 65 , most frequent terms are:
+
+term1 = 
+
+    'eeg'
+
+
+term2 = 
+
+    'document'
+
+
+For neuron 66 , most frequent terms are:
+
+term1 = 
+
+    'popul'
+
+
+term2 = 
+
+    'tune'
+
+
+For neuron 67 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'cell'
+
+
+For neuron 68 , most frequent terms are:
+
+term1 = 
+
+    'neuron'
+
+
+term2 = 
+
+    'synapt'
+
+
+For neuron 69 , most frequent terms are:
+
+term1 = 
+
+    'adaboost'
+
+
+term2 = 
+
+    'margin'
+
+
+For neuron 70 , most frequent terms are:
+
+term1 = 
+
+    'polici'
+
+
+term2 = 
+
+    'action'
+
+
+For neuron 71 , most frequent terms are:
+
+term1 = 
+
+    'elf'
+
+
+term2 = 
+
+    'itc'
+
+
+For neuron 72 , most frequent terms are:
+
+term1 = 
+
+    'deflect'
+
+
+term2 = 
+
+    'itc'
+
+
+For neuron 73 , most frequent terms are:
+
+term1 = 
+
+    'restructur'
+
+
+term2 = 
+
+    'deflect'
+
+
+For neuron 74 , most frequent terms are:
+
+term1 = 
+
+    'document'
+
+
+term2 = 
+
+    'eeg'
+
+
+For neuron 75 , most frequent terms are:
+
+term1 = 
+
+    'document'
+
+
+term2 = 
+
+    'word'
+
+
+For neuron 76 , most frequent terms are:
+
+term1 = 
+
+    'salienc'
+
+
+term2 = 
+
+    'imag'
+
+
+For neuron 77 , most frequent terms are:
+
+term1 = 
+
+    'crystal'
+
+
+term2 = 
+
+    'shrinkag'
+
+
+For neuron 78 , most frequent terms are:
+
+term1 = 
+
+    'margin'
+
+
+term2 = 
+
+    'chip'
+
+
+For neuron 79 , most frequent terms are:
+
+term1 = 
+
+    'adaboost'
+
+
+term2 = 
+
+    'margin'
+
+
+For neuron 80 , most frequent terms are:
+
+term1 = 
+
+    'face'
+
+
+term2 = 
+
+    'svm'
+
+
+For neuron 81 , most frequent terms are:
+
+term1 = 
+
+    'stdev'
+
+
+term2 = 
+
+    'exc'
+
+
+For neuron 82 , most frequent terms are:
+
+term1 = 
+
+    'stdev'
+
+
+term2 = 
+
+    'boyen'
+
+
+For neuron 83 , most frequent terms are:
+
+term1 = 
+
+    'itc'
+
+
+term2 = 
+
+    'deflect'
+
+
+For neuron 84 , most frequent terms are:
+
+term1 = 
+
+    'document'
+
+
+term2 = 
+
+    'imag'
+
+
+For neuron 85 , most frequent terms are:
+
+term1 = 
+
+    'document'
+
+
+term2 = 
+
+    'word'
+
+
+For neuron 86 , most frequent terms are:
+
+term1 = 
+
+    'imag'
+
+
+term2 = 
+
+    'document'
+
+
+For neuron 87 , most frequent terms are:
+
+term1 = 
+
+    'hmm'
+
+
+term2 = 
+
+    'shrinkag'
+
+
+For neuron 88 , most frequent terms are:
+
+term1 = 
+
+    'hmm'
+
+
+term2 = 
+
+    'spiral'
+
+
+For neuron 89 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'svm'
+
+
+For neuron 90 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'face'
+
+
+For neuron 91 , most frequent terms are:
+
+term1 = 
+
+    'boyen'
+
+
+term2 = 
+
+    'stdev'
+
+
+For neuron 92 , most frequent terms are:
+
+term1 = 
+
+    'boyen'
+
+
+term2 = 
+
+    'stdev'
+
+
+For neuron 93 , most frequent terms are:
+
+term1 = 
+
+    'ellips'
+
+
+term2 = 
+
+    'trt'
+
+
+For neuron 94 , most frequent terms are:
+
+term1 = 
+
+    'imag'
+
+
+term2 = 
+
+    'scene'
+
+
+For neuron 95 , most frequent terms are:
+
+term1 = 
+
+    'imag'
+
+
+term2 = 
+
+    'node'
+
+
+For neuron 96 , most frequent terms are:
+
+term1 = 
+
+    'hmm'
+
+
+term2 = 
+
+    'node'
+
+
+For neuron 97 , most frequent terms are:
+
+term1 = 
+
+    'hmm'
+
+
+term2 = 
+
+    'speech'
+
+
+For neuron 98 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'hmm'
+
+
+For neuron 99 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'svm'
+
+
+For neuron 100 , most frequent terms are:
+
+term1 = 
+
+    'kernel'
+
+
+term2 = 
+
+    'cluster'
+
+
+Neuron 76 satisfies 
+Neuron 77 satisfies 
+Neuron 78 satisfies 
+Neuron 87 satisfies 
+Neuron 88 satisfies 
+>> 
